@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         WME Page Refresh
 // @namespace    https://github.com/TheCre8r/WME-Page-Refresh
-// @version      1.0.0.1
+// @version      1.0.0.2
 // @description  Allows Waze Editors to refresh the page without losing their spot.
 // @author       The_Cre8r
-// @include      /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor\/.*$/
+// @include      /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor\/?.*$/
 // @grant        none
 // ==/UserScript==
 (function() {
