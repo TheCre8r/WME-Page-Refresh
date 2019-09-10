@@ -1,6 +1,10 @@
 # WME-Page-Refresh
 Allows Waze Editors to refresh the page without losing their spot.
 
+## Installation
+
+Install just like any other userscript by clicking this link:
+https://github.com/TheCre8r/WME-Page-Refresh/raw/master/WME-Page-Refresh.user.js
 
 # Currently only works by using F5*
 * You can rebind the key by going to http://keycode.info/ and get the keycode for the key you would like to use.
